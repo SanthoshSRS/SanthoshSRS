@@ -52,18 +52,6 @@ I am a **Computer Science Senior** at **ASU** with a consistent **3.70 GPA** and
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshSRS&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshSRS&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshSRS&theme=tokyonight" width="100%" />
-</p>
-
----
-
 <div align="center">
   <i>"Delivering high-quality, scalable software solutions." </i>
 </div>
