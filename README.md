@@ -1,73 +1,69 @@
-<h1 align="center">Hi, I'm Santhosh SRS! 👋</h1>
-<p align="center">
-  <strong>Computer Science Senior @ Arizona State University | Full-Stack & AI Developer</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GPA-3.70-blue?style=for-the-badge&logo=asu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Seeking_SDE_Roles-success?style=for-the-badge" />
-</p>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/santhosh-srs/">
+  <h1>✨ Santhosh SRS</h1>
+  <p><b>Computer Science Senior @ Arizona State University | Full-Stack AI Developer</b></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/GPA-3.70-maroon?style=flat-square&logo=asu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-AI_%26_Scalable_SaaS-blueviolet?style=flat-square" />
+    <img src="https://img.shields.io/badge/Location-Tempe%2C_AZ-orange?style=flat-square" />
+  </p>
+
+  <a href="https://linkedin.com/in/santhosh-srs">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ssrs1@asu.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SanthoshSRS">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 💫 About Me
+### 🚀 About Me
+I am a **Computer Science Senior** at **ASU** with a consistent **3.70 GPA** and a passion for building high-quality, scalable software solutions. Currently, I’m working on **AI-driven production SaaS platforms**  and preparing for the next step in my software engineering career.
 
-* 🎓 **Senior at ASU**: Pursuing a B.S. in Computer Science (GPA: 3.70)[cite: 4, 9, 10].
-* 🏆 **Recognition**: Consistent Dean's List recognition and New American Scholar[cite: 4, 11].
-* 💻 **Current Role**: Full-Stack Development Intern at Endless Moments LLC[cite: 18, 19].
-* 🚀 **Focus**: Building scalable, AI-driven applications using FastAPI, React, and LLMs like GPT-4 and Gemini[cite: 20, 21, 43].
+- 🔭 **Currently**: Full-Stack Development Intern at **Endless Moments LLC**.
+- 🧠 **Focusing on**: Integrating LLMs (GPT-4, Gemini) into production environments.
+- 🎓 **Education**: B.S. in Computer Science (Expected May 2026).
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
 
-| Category | Skills |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![REST APIs](https://img.shields.io/badge/-REST_APIs-blue) |
-| **Cloud/DB** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) |
+| **Languages** | `Python` `Java` `C/C++` `JavaScript` `Bash` `MATLAB`  |
+| **Frontend** | `React.js` `Next.js` `TypeScript` `Bootstrap` `Tailwind` `Framer Motion`  |
+| **Backend** | `FastAPI` `Node.js` `AWS Lambda` `REST APIs`  |
+| **Cloud/DB** | `PostgreSQL` `MySQL` `Firebase` `AWS (S3/Lambda)` `GCP Vision`  |
+| **AI/ML** | `TensorFlow` `OpenAI GPT-4` `Gemini API` `NLP`  |
 
 ---
 
-### 📂 Recent Work & Projects
+### 🌟 Featured Impact
 
-* **Endless Moments LLC (Intern)**: Engineered a production SaaS platform with a Python/FastAPI backend and React frontend[cite: 18, 20]. [cite_start]Integrated GPT-4 for automated document parsing[cite: 21].
-* **WALNUTECH PBC (Intern)**: Delivered end-to-end features using Next.js and FastAPI, integrating Postgres for scalable data flow[cite: 24, 26, 27].
-* **InterviewMe**: An AI-driven mock interview tool using **Gemini API** and **AWS Lambda** to generate tailored behavioral questions[cite: 41, 43, 45].
-* **BillMe**: AI-based receipt parser using **Google Cloud Vision** and **Node.js** for intelligent bill splitting[cite: 46, 48, 50].
+#### 🏗️ [Endless Moments LLC](https://github.com/SanthoshSRS) | Full-Stack Intern
+> Engineered a **multitenant SaaS platform** using **FastAPI** and **PostgreSQL** Reduced manual document processing time by integrating **GPT-4** automation.
 
----
+#### 🤖 [InterviewMe](https://github.com/SanthoshSRS) | AI Mock Interviews
+> Developed a serverless **AWS Lambda** backend that uses **Gemini API** and **NLP** to generate tailored interview questions from 30+ job descriptions.
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshSRS&show_icons=true&theme=radical" alt="Santhosh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshSRS&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshSRS&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+#### 🧾 [BillMe](https://github.com/SanthoshSRS) | Smart Receipt Parser
+> Built an intelligent bill splitter using **Google Cloud Vision** and **Node.js** Implemented contextual parsing for precise cost breakdowns.
 
 ---
 
+### 📊 GitHub Insights
 <p align="center">
-  <i>"Delivering high-quality, scalable software solutions." [cite: 6]</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanthoshSRS&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshSRS&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthoshSRS&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+<div align="center">
+  <i>"Delivering high-quality, scalable software solutions." </i>
+</div>
